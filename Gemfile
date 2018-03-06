@@ -14,6 +14,8 @@ gem 'uglifier', '>= 1.3.0'
 gem 'coffee-rails', '~> 4.2'
 gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
+gem 'devise', '~> 4.4', '>= 4.4.1'
+gem 'bcrypt', '~> 3.1', '>= 3.1.11'
 # API wrappers
 gem 'themoviedb-api', '~> 1.2'
 
